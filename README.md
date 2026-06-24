@@ -8,7 +8,6 @@
 🔧 Focused on delivering client satisfaction, writing clean code, and ensuring scalability across every project I touch.<br>
 🚀 Always eager to explore new technologies and keep improving through best practices like TDD, OOP, DDD and vertical slice architecture.<br>
 📍 Currently seeking new opportunities in **Lyon** (open to remote as well).
-
 🔒 Most of my professional work lives in private company repositories, so my public activity here doesn't fully reflect my day-to-day output.
 
 <br>
