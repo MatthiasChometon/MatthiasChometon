@@ -1,18 +1,75 @@
-# 💫 About Me:
-💻 Fullstack Developer & DevOps<br><br>👨‍💻 Passionate Fullstack Developer with over 3 years of experience in building scalable, high-performance web and mobile applications.<br><br>🔧 Focused on delivering client satisfaction, writing high-quality code, and ensuring scalability and performance across projects.<br><br>🚀 Always eager to explore new technologies and continuously improve through clean code principles and best practices such as TDD, OOP, and DDD.<br><br>📍 Currently seeking full-time opportunities in Lyon (open to remote positions as well).<br><br>📫 Get in touch:<br><br>Email: matthiaschometon787@gmail.com<br>LinkedIn: Matthias Chometon<br>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Matthias;Fullstack+Developer;React+%2F+Vue+%2F+Node;Building+clean%2C+scalable+apps+%E2%9A%A1" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-chometon-99371a177/) 
+</div>
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MatthiasChometon&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatthiasChometon&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiasChometon&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
----
+# 💫 About Me
+
+👨‍💻 Passionate **Fullstack Developer** with nearly 5 years of experience building scalable, high-performance web and mobile applications.
+
+🤖 I love combining solid engineering with AI-assisted development (Claude, Github Copilot) to ship faster without compromising on quality.
+
+🔧 Focused on delivering client satisfaction, writing clean code, and ensuring scalability across every project I touch.
+
+🚀 Always eager to explore new technologies and keep improving through best practices like TDD, OOP, DDD and vertical slice architecture.
+
+📍 Currently seeking new opportunities in **Lyon** (open to remote as well).
+
+<br>
+
+## 📫 Get in touch
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthiaschometon787@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-chometon-99371a177/)
+
+</div>
+
+<br>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MatthiasChometon&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthiasChometon&theme=dracula&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiasChometon&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=MatthiasChometon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
