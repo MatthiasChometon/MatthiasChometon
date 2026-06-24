@@ -7,16 +7,20 @@
 # 💫 About Me
 
 👨‍💻 Passionate **Fullstack Developer** with nearly 5 years of experience building scalable, high-performance web and mobile applications.
+
 🤖 I love combining solid engineering with AI-assisted development (Claude, Github Copilot) to ship faster without compromising on quality.
+
 🔧 Focused on delivering client satisfaction, writing clean code, and ensuring scalability across every project I touch.
+
 🚀 Always eager to explore new technologies and keep improving through best practices like TDD, OOP, DDD and vertical slice architecture.
+
 📍 Currently seeking new opportunities in **Lyon** (open to remote as well).
 
 <br>
 
 ## 📫 Get in touch
 
-<div align="center">
+<div align="start">
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthiaschometon787@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-chometon-99371a177/)
@@ -27,7 +31,7 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div align="start">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
