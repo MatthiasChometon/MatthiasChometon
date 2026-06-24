@@ -1,6 +1,7 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Matthias;Fullstack+Developer;React+%2F+Vue+%2F+Node;Building+clean%2C+scalable+apps+%E2%9A%A1" alt="Typing SVG" />
+<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Matthias;Fullstack+Developer;React+%2F+Vue+%2F+Node;Building+clean%2C+scalable+apps+%E2%9A%A1" alt="Typing SVG" />
 </div>
+
 
 # 💫 About Me
 👨‍💻 Passionate **Fullstack Developer** with nearly 5 years of experience building scalable, high-performance web and mobile applications.<br>
