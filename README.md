@@ -4,18 +4,12 @@
 
 </div>
 
-<br>
-
 # 💫 About Me
 
 👨‍💻 Passionate **Fullstack Developer** with nearly 5 years of experience building scalable, high-performance web and mobile applications.
-
 🤖 I love combining solid engineering with AI-assisted development (Claude, Github Copilot) to ship faster without compromising on quality.
-
 🔧 Focused on delivering client satisfaction, writing clean code, and ensuring scalability across every project I touch.
-
 🚀 Always eager to explore new technologies and keep improving through best practices like TDD, OOP, DDD and vertical slice architecture.
-
 📍 Currently seeking new opportunities in **Lyon** (open to remote as well).
 
 <br>
@@ -43,33 +37,3 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MatthiasChometon&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthiasChometon&theme=dracula&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthiasChometon&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=MatthiasChometon&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
