@@ -9,7 +9,17 @@
 🔧 Focused on delivering client satisfaction, writing clean code, and ensuring scalability across every project I touch.<br>
 🚀 Always eager to explore new technologies and keep improving through best practices like TDD, OOP, DDD and vertical slice architecture.<br>
 📍 Currently seeking new opportunities in **Lyon** (open to remote as well).<br>
-🔒 Most of my professional work lives in private company repositories — so here is one I can share end to end, from code to production 👇
+🌿 Most of my professional work lives in private company repos — so here are **two full-stack apps I designed and shipped end to end, live in production** 👇
+
+<br>
+
+## 🌿 Featured Project — [verdure](https://github.com/MatthiasChometon/verdure)
+
+A companion for indoor-plant lovers I built and run in production: track your plant collection, **never miss a watering** (per-species seasonal schedules, a "to water today" band, a full calendar), and **identify any plant from a photo** — via the cloud (Pl@ntNet) or **privately on your own GPU**, where the photo never leaves your machine.
+
+🔗 **Live:** [verdure.mtxlab.xyz](https://verdure.mtxlab.xyz)  ·  📦 **Code:** [github.com/MatthiasChometon/verdure](https://github.com/MatthiasChometon/verdure)
+
+**Stack:** Nuxt 4 · NestJS · GraphQL (code-first) · Drizzle + PostgreSQL · PWA / offline · a bring-your-own-GPU AI worker (long-poll job queue) · Vitest & Playwright — vertical-slice architecture, self-hosted auth (OAuth + email/password), typed end to end.
 
 <br>
 
