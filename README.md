@@ -9,7 +9,17 @@
 🔧 Focused on delivering client satisfaction, writing clean code, and ensuring scalability across every project I touch.<br>
 🚀 Always eager to explore new technologies and keep improving through best practices like TDD, OOP, DDD and vertical slice architecture.<br>
 📍 Currently seeking new opportunities in **Lyon** (open to remote as well).<br>
-🔒 Most of my professional work lives in private company repositories, so my public activity here doesn't fully reflect my day-to-day output.
+🔒 Most of my professional work lives in private company repositories — so here is one I can share end to end, from code to production 👇
+
+<br>
+
+## 🚀 Featured Project — [Le Menu](https://github.com/MatthiasChometon/menu)
+
+A full-stack meal-planning & grocery app I built and run in production. It composes a **weekly menu tailored to each user's nutrition profile**, computes every recipe to the gram, builds an offline shopping list, and can even **auto-fill an online grocery basket** from the menu.
+
+🔗 **Live:** [menu.mtxlab.xyz](https://menu.mtxlab.xyz)  ·  📦 **Code:** [github.com/MatthiasChometon/menu](https://github.com/MatthiasChometon/menu)
+
+**Stack:** Nuxt 4 · NestJS · GraphQL (code-first) · Drizzle + PostgreSQL · PWA / offline · MV3 browser extension · Vitest & Playwright — vertical-slice architecture, self-hosted auth (OAuth + email/password), typed end to end.
 
 <br>
 
